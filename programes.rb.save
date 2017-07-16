@@ -1,0 +1,3 @@
+print "Please enter your name: "
+name= gets.chomp
+puts " Nice to meet you. :X:X:X Hello #{name}! How are you today?"
